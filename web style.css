@@ -40,3 +40,23 @@ nav li{
 .r{
     color: rgb(245, 12, 12);
 }
+.info{
+    display: flex;
+    text-align: center;
+    margin: right 50px;
+    
+}
+.section{
+    text-align: center;
+    padding: 100px;
+    margin: 50px;
+    background-color:rgb(253, 177, 188);
+    border-radius: 5px;
+    
+    
+
+
+}
+.name{
+    margin: auto;
+}
