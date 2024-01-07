@@ -1,3 +1,9 @@
+header{
+    background-color: rgb(253, 177, 188);
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+}
 nav{
     display: flex;
     justify-content: space-between;
@@ -16,7 +22,21 @@ nav li{
     border-radius: 3px;
     border: none;
     color: white;
+    height: 30px;
+    width: 100px;
 }
 .h1{
     font-size: 55px;
+}
+.banar{
+    padding: 30px 30px 0px 150px;
+    display: flex;
+    align-items: center;
+    
+}
+.pp{
+    width: 380px;
+}
+.r{
+    color: rgb(245, 12, 12);
 }
